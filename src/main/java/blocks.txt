@@ -1,0 +1,693 @@
+Fence (ALL TYPES)
+Sign (ALL TYPES)
+Leaves  (ALL TYPES) (MIGHT REMOVE)
+Wood Log (ALL TYPES)
+Wood Planks (ALL TYPES)
+Sapling (ALL TYPES) (MIGHT REMOVE)
+Slab (ALL TYPES) (MIGHT REMOVE)
+Stairs (ALL TYPES)
+Wood (ALL TYPES)
+Rail (ALL TYPES)
+Wool (ALL TYPES)
+ Allium
+ Amethyst Cluster
+ Ancient Debris
+ Andesite
+ Andesite Slab
+ Andesite Stairs
+ Andesite Wall
+ Anvil
+ Azure Bluet
+ Bamboo
+ Bamboo Mosaic
+ Bamboo Mosaic Slab
+ Bamboo Mosaic Stairs
+ Bamboo Planks
+ Bamboo Pressure Plate
+ Bamboo Shoot
+ Bamboo Slab
+ Bamboo Stairs
+ Barrel
+ Barrier
+ Basalt
+ Beacon
+ Bedrock
+ Bee Nest
+ Beehive
+ Beetroots
+ Bell
+ Big Dripleaf
+ Birch Pressure Plate
+ Birch Slab
+ Birch Stairs
+ Black Banner
+ Black Bed
+ Black Candle
+ Black Carpet
+ Black Concrete
+ Black Concrete Powder
+ Black Glazed Terracotta
+ Black Shulker Box
+ Black Stained Glass
+ Black Stained Glass Pane
+ Black Terracotta
+ Blackstone
+ Blackstone Slab
+ Blackstone Stairs
+ Blackstone Wall
+ Blast Furnace
+ Block of Amethyst
+ Block of Bamboo
+ Block of Coal
+ Block of Copper
+ Block of Diamond
+ Block of Emerald
+ Block of Gold
+ Block of Iron
+ Block of Lapis Lazuli
+ Block of Netherite
+ Block of Quartz
+ Block of Redstone
+ Blue Banner
+ Blue Bed
+ Blue Candle
+ Blue Carpet
+ Blue Concrete
+ Blue Concrete Powder
+ Blue Glazed Terracotta
+ Blue Ice
+ Blue Orchid
+ Blue Shulker Box
+ Blue Stained Glass
+ Blue Stained Glass Pane
+ Blue Terracotta
+ Bone Block
+ Bookshelf
+ Brain Coral
+ Brain Coral Block
+ Brain Coral Fan
+ Brewing Stand
+ Brick Slab
+ Brick Stairs
+ Brick Wall
+ Bricks
+ Brown Banner
+ Brown Bed
+ Brown Candle
+ Brown Carpet
+ Brown Concrete
+ Brown Concrete Powder
+ Brown Glazed Terracotta
+ Brown Mushroom
+ Brown Mushroom Block
+ Brown Shulker Box
+ Brown Stained Glass
+ Brown Stained Glass Pane
+ Brown Terracotta
+ Bubble Coral
+ Bubble Coral Block
+ Bubble Coral Fan
+ Budding Amethyst
+ Cactus
+ Cake
+ Calcite
+ Calibrated Sculk Sensor
+ Campfire
+ Candle
+ Carrots
+ Cartography Table
+ Carved Pumpkin
+ Cauldron
+ Cave Vines
+ Chain
+ Chest
+ Cherry Pressure Plate
+ Cherry Slab
+ Cherry Stairs
+ Chipped Anvil
+ Chiseled Bookshelf
+ Chiseled Deepslate
+ Chiseled Nether Bricks
+ Chiseled Polished Blackstone
+ Chiseled Quartz Block
+ Chiseled Red Sandstone
+ Chiseled Sandstone
+ Chiseled Stone Bricks
+ Chorus Flower
+ Clay
+ Coarse Dirt
+ Cobbled Deepslate
+ Cobbled Deepslate Slab
+ Cobbled Deepslate Stairs
+ Cobbled Deepslate Wall
+ Cobblestone
+ Cobblestone Slab
+ Cobblestone Stairs
+ Cobblestone Wall
+ Cobweb
+ Cocoa
+ Command Block
+ Composter
+ Conduit
+ Cornflower
+ Cracked Deepslate Bricks
+ Cracked Deepslate Tiles
+ Cracked Nether Bricks
+ Cracked Polished Blackstone Bricks
+ Cracked Stone Bricks
+ Crafting Table
+ Creeper Head
+ Crimson Fungus
+ Crimson Hyphae
+ Crimson Nylium
+ Crimson Planks
+ Crimson Pressure Plate
+ Crimson Roots
+ Crimson Slab
+ Crimson Stairs
+ Crimson Stem
+ Crying Obsidian
+ Cut Copper
+ Cut Copper Slab
+ Cut Copper Stairs
+ Cut Red Sandstone
+ Cut Red Sandstone Slab
+ Cut Sandstone
+ Cut Sandstone Slab
+ Cyan Banner
+ Cyan Bed
+ Cyan Candle
+ Cyan Carpet
+ Cyan Concrete
+ Cyan Concrete Powder
+ Cyan Glazed Terracotta
+ Cyan Shulker Box
+ Cyan Stained Glass
+ Cyan Stained Glass Pane
+ Cyan Terracotta
+ Damaged Anvil
+ Dandelion
+ Dark Oak Pressure Plate
+ Dark Oak Slab
+ Dark Oak Stairs
+ Dark Prismarine
+ Dark Prismarine Slab
+ Dark Prismarine Stairs
+ Daylight Detector
+ Dead Brain Coral
+ Dead Brain Coral Block
+ Dead Brain Coral Fan
+ Dead Bubble Coral
+ Dead Bubble Coral Block
+ Dead Bubble Coral Fan
+ Dead Bush
+ Dead Fire Coral
+ Dead Fire Coral Block
+ Dead Fire Coral Fan
+ Dead Horn Coral
+ Dead Horn Coral Block
+ Dead Horn Coral Fan
+ Dead Tube Coral
+ Dead Tube Coral Block
+ Dead Tube Coral Fan
+ Decorated Pot
+ Deepslate
+ Deepslate Bricks
+ Deepslate Brick Slab
+ Deepslate Brick Stairs
+ Deepslate Brick Wall
+ Deepslate Tiles
+ Deepslate Tile Slab
+ Deepslate Tile Stairs
+ Deepslate Tile Wall
+ Diorite
+ Diorite Slab
+ Diorite Stairs
+ Diorite Wall
+ Dirt
+ Dirt Path
+ Dispenser
+ Dragon Egg
+ Dragon Head
+ Dried Kelp Block
+ Dripstone Block
+ Dropper
+ Enchanting Table
+ End Portal Frame
+ End Rod
+ End Stone
+ End Stone Brick Slab
+ End Stone Brick Stairs
+ End Stone Brick Wall
+ End Stone Bricks
+ Ender Chest
+ Exposed Copper
+ Exposed Cut Copper
+ Exposed Cut Copper Slab
+ Exposed Cut Copper Stairs
+ Farmland
+ Fern
+ Fire
+ Fire Coral
+ Fire Coral Block
+ Fire Coral Fan
+ Fletching Table
+ Flower Pot
+ Frogspawn
+ Furnace
+ Gilded Blackstone
+ Glass
+ Glass Pane
+ Glow Lichen
+ Glowstone
+ Granite
+ Granite Slab
+ Granite Stairs
+ Granite Wall
+ Grass
+ Grass Block
+ Gravel
+ Gray Banner
+ Gray Bed
+ Gray Candle
+ Gray Carpet
+ Gray Concrete
+ Gray Concrete Powder
+ Gray Glazed Terracotta
+ Gray Shulker Box
+ Gray Stained Glass
+ Gray Stained Glass Pane
+ Gray Terracotta
+ Green Banner
+ Green Bed
+ Green Candle
+ Green Carpet
+ Green Concrete
+ Green Concrete Powder
+ Green Glazed Terracotta
+ Green Shulker Box
+ Green Stained Glass
+ Green Stained Glass Pane
+ Green Terracotta
+ Grindstone
+ Hanging Roots
+ Hay Bale
+ Heavy Weighted Pressure Plate
+ Honey Block
+ Honeycomb Block
+ Hopper
+ Horn Coral
+ Horn Coral Block
+ Horn Coral Fan
+ Ice
+ Infested Chiseled Stone Bricks
+ Infested Cobblestone
+ Infested Cracked Stone Bricks
+ Infested Deepslate
+ Infested Mossy Stone Bricks
+ Infested Stone
+ Infested Stone Bricks
+ Iron Bars
+ Jack o'Lantern
+ Jigsaw Block
+ Jukebox
+ Jungle Pressure Plate
+ Jungle Slab
+ Jungle Stairs
+ Kelp
+ Ladder
+ Lantern
+ Large Amethyst Bud
+ Large Fern
+ Lava
+ Lectern
+ Lever
+ Light Block
+ Light Blue Banner
+ Light Blue Bed
+ Light Blue Candle
+ Light Blue Carpet
+ Light Blue Concrete
+ Light Blue Concrete Powder
+ Light Blue Glazed Terracotta
+ Light Blue Shulker Box
+ Light Blue Stained Glass
+ Light Blue Stained Glass Pane
+ Light Blue Terracotta
+ Light Gray Banner
+ Light Gray Bed
+ Light Gray Candle
+ Light Gray Carpet
+ Light Gray Concrete
+ Light Gray Concrete Powder
+ Light Gray Glazed Terracotta
+ Light Gray Shulker Box
+ Light Gray Stained Glass
+ Light Gray Stained Glass Pane
+ Light Gray Terracotta
+ Light Weighted Pressure Plate
+ Lightning Rod
+ Lilac
+ Lily of the Valley
+ Lily Pad
+ Lime Banner
+ Lime Bed
+ Lime Candle
+ Lime Carpet
+ Lime Concrete
+ Lime Concrete Powder
+ Lime Glazed Terracotta
+ Lime Shulker Box
+ Lime Stained Glass
+ Lime Stained Glass Pane
+ Lime Terracotta
+ Lodestone
+ Loom
+ Magenta Banner
+ Magenta Bed
+ Magenta Candle
+ Magenta Carpet
+ Magenta Concrete
+ Magenta Concrete Powder
+ Magenta Glazed Terracotta
+ Magenta Shulker Box
+ Magenta Stained Glass
+ Magenta Stained Glass Pane
+ Magenta Terracotta
+ Magma Block
+ Mangrove Roots
+ Mangrove Slab
+ Mangrove Stairs
+ Medium Amethyst Bud
+ Melon
+ Melon Stem
+ Monster Spawner
+ Moss Block
+ Moss Carpet
+ Mossy Cobblestone
+ Mossy Cobblestone Slab
+ Mossy Cobblestone Stairs
+ Mossy Cobblestone Wall
+ Mossy Stone Brick Slab
+ Mossy Stone Brick Stairs
+ Mossy Stone Brick Wall
+ Mossy Stone Bricks
+ Mud
+ Mud Brick Slab
+ Mud Brick Stairs
+ Mud Brick Wall
+ Mud Bricks
+ Muddy Mangrove Roots
+ Mushroom Stem
+ Mycelium
+ Nether Brick Slab
+ Nether Brick Stairs
+ Nether Brick Wall
+ Nether Bricks
+ Nether Sprouts
+ Nether Wart
+ Nether Wart Block
+ Netherrack
+ Note Block
+ Oak Pressure Plate
+ Oak Slab
+ Oak Stairs
+ Observer
+ Obsidian
+ Ochre Froglight
+ Ominous Banner
+ Orange Banner
+ Orange Bed
+ Orange Candle
+ Orange Carpet
+ Orange Concrete
+ Orange Concrete Powder
+ Orange Glazed Terracotta
+ Orange Shulker Box
+ Orange Stained Glass
+ Orange Stained Glass Pane
+ Orange Terracotta
+ Orange Tulip
+ Oxeye Daisy
+ Oxidized Copper
+ Oxidized Cut Copper
+ Oxidized Cut Copper Slab
+ Oxidized Cut Copper Stairs
+ Packed Ice
+ Packed Mud
+ Pearlescent Froglight
+ Peony
+ Petrified Oak Slab
+ Piglin Head
+ Pink Banner
+ Pink Bed
+ Pink Candle
+ Pink Carpet
+ Pink Concrete
+ Pink Concrete Powder
+ Pink Petals
+ Pink Glazed Terracotta
+ Pink Shulker Box
+ Pink Stained Glass
+ Pink Stained Glass Pane
+ Pink Terracotta
+ Pink Tulip
+ Pitcher Crop
+ Pitcher Plant
+ Piston
+ Player Head
+ Podzol
+ Pointed Dripstone
+ Polished Andesite
+ Polished Andesite Slab
+ Polished Andesite Stairs
+ Polished Basalt
+ Polished Blackstone
+ Polished Blackstone Brick Slab
+ Polished Blackstone Brick Stairs
+ Polished Blackstone Brick Wall
+ Polished Blackstone Bricks
+ Polished Blackstone Pressure Plate
+ Polished Blackstone Slab
+ Polished Blackstone Stairs
+ Polished Blackstone Wall
+ Polished Diorite
+ Polished Diorite Slab
+ Polished Diorite Stairs
+ Polished Granite
+ Polished Granite Slab
+ Polished Granite Stairs
+ Polished Deepslate
+ Polished Deepslate Slab
+ Polished Deepslate Stairs
+ Polished Deepslate Wall
+ Poppy
+ Potatoes
+ Powder Snow
+ Prismarine
+ Prismarine Brick Slab
+ Prismarine Brick Stairs
+ Prismarine Bricks
+ Prismarine Slab
+ Prismarine Stairs
+ Prismarine Wall
+ Pumpkin
+ Pumpkin Stem
+ Purple Banner
+ Purple Bed
+ Purple Candle
+ Purple Carpet
+ Purple Concrete
+ Purple Concrete Powder
+ Purple Glazed Terracotta
+ Purple Shulker Box
+ Purple Stained Glass
+ Purple Stained Glass Pane
+ Purple Terracotta
+ Purpur Block
+ Purpur Pillar
+ Purpur Slab
+ Purpur Stairs
+ Quartz Bricks
+ Quartz Pillar
+ Quartz Slab
+ Quartz Stairs
+ Red Banner
+ Red Bed
+ Red Candle
+ Red Carpet
+ Red Concrete
+ Red Concrete Powder
+ Red Glazed Terracotta
+ Red Mushroom
+ Red Mushroom Block
+ Red Nether Brick Slab
+ Red Nether Brick Stairs
+ Red Nether Brick Wall
+ Red Nether Bricks
+ Red Sand
+ Red Sandstone
+ Red Sandstone Slab
+ Red Sandstone Stairs
+ Red Sandstone Wall
+ Red Shulker Box
+ Red Stained Glass
+ Red Stained Glass Pane
+ Red Terracotta
+ Red Tulip
+ Redstone Comparator
+ Redstone Lamp
+ Redstone Repeater
+ Redstone Torch
+ Redstone Wire
+ Reinforced Deepslate
+ Repeating Command Block
+ Respawn Anchor
+ Rooted Dirt
+ Rose Bush
+ Sand
+ Sandstone
+ Sandstone Slab
+ Sandstone Stairs
+ Sandstone Wall
+ Scaffolding
+ Sculk
+ Sculk Catalyst
+ Sculk Sensor
+ Sculk Shrieker
+ Sculk Vein
+ Sea Lantern
+ Sea Pickle
+ Seagrass
+ Shroomlight
+ Shulker Box
+ Skeleton Skull
+ Slime Block
+ Small Amethyst Bud
+ Small Dripleaf
+ Smithing Table
+ Smoker
+ Smooth Basalt
+ Smooth Quartz Block
+ Smooth Quartz Slab
+ Smooth Quartz Stairs
+ Smooth Red Sandstone
+ Smooth Red Sandstone Slab
+ Smooth Red Sandstone Stairs
+ Smooth Sandstone
+ Smooth Sandstone Slab
+ Smooth Sandstone Stairs
+ Smooth Stone
+ Smooth Stone Slab
+ Sniffer Egg
+ Snow
+ Snow Block
+ Soul Campfire
+ Soul Fire
+ Soul Lantern
+ Soul Sand
+ Soul Soil
+ Soul Torch
+ Sponge
+ Spore Blossom
+ Spruce Pressure Plate
+ Spruce Slab
+ Spruce Stairs
+ Sticky Piston
+ Stone
+ Stone Brick Slab
+ Stone Brick Stairs
+ Stone Brick Wall
+ Stone Bricks
+ Stone Pressure Plate
+ Stone Slab
+ Stone Stairs
+ Stonecutter
+ Structure Block
+ Structure Void
+ Sugar Cane
+ Sunflower
+ Suspicious Gravel
+ Suspicious Sand
+ Sweet Berry Bush
+ Tall Grass
+ Tall Seagrass
+ Target
+ Terracotta
+ Tinted Glass
+ TNT
+ Torch
+ Torchflower
+ Torchflower Crop
+ Trapped Chest
+ Tripwire
+ Tripwire Hook
+ Tube Coral
+ Tube Coral Block
+ Tuff
+ Tube Coral Fan
+ Turtle Egg
+ Twisting Vines
+ Verdant Froglight
+ Vines
+ Warped Fungus
+ Warped Hyphae
+ Warped Nylium
+ Warped Planks
+ Warped Pressure Plate
+ Warped Roots
+ Warped Slab
+ Warped Stairs
+ Warped Stem
+ Warped Wart Block
+ Water
+ Waxed Block of Copper
+ Waxed Cut Copper
+ Waxed Cut Copper Slab
+ Waxed Cut Copper Stairs
+ Waxed Exposed Copper
+ Waxed Exposed Cut Copper
+ Waxed Exposed Cut Copper Slab
+ Waxed Exposed Cut Copper Stairs
+ Waxed Oxidized Copper
+ Waxed Oxidized Cut Copper
+ Waxed Oxidized Cut Copper Slab
+ Waxed Oxidized Cut Copper Stairs
+ Waxed Weathered Copper
+ Waxed Weathered Cut Copper
+ Waxed Weathered Cut Copper Slab
+ Waxed Weathered Cut Copper Stairs
+ Weathered Copper
+ Weathered Cut Copper
+ Weathered Cut Copper Slab
+ Weathered Cut Copper Stairs
+ Weeping Vines
+ Wet Sponge
+ Wheat Crops
+ White Banner
+ White Bed
+ White Candle
+ White Carpet
+ White Concrete
+ White Concrete Powder
+ White Glazed Terracotta
+ White Shulker Box
+ White Stained Glass
+ White Stained Glass Pane
+ White Terracotta
+ White Tulip
+ Wither Rose
+ Wither Skeleton Skull
+ Yellow Banner
+ Yellow Bed
+ Yellow Candle
+ Yellow Carpet
+ Yellow Concrete
+ Yellow Concrete Powder
+ Yellow Glazed Terracotta
+ Yellow Shulker Box
+ Yellow Stained Glass
+ Yellow Stained Glass Pane
+ Yellow Terracotta
+ Zombie Head
+

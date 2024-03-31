@@ -1,0 +1,42 @@
+{
+	"schemaVersion": 1,
+	"id": "staffofholding",
+	"version": "${version}",
+	"name": "Staff Of Holding",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/staffofholding/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"dev.heckerwithahat.StaffOfHolding"
+		],
+		"client": [
+			"dev.heckerwithahat.StaffOfHoldingClient"
+		]
+	},
+	"mixins": [
+		"staffofholding.mixins.json",
+		{
+			"config": "staffofholding.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.15.7",
+		"minecraft": "~1.20.4",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	},
+	"accessWidener" : "staffofholding.accesswidener"
+}
